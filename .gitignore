@@ -1,0 +1,9 @@
+*~
+*#
+*.org
+/.projectile
+/.gdbinit
+/GTAGS
+/GPATH
+/GRTAGS
+out/**
