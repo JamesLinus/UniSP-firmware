@@ -29,6 +29,7 @@ Please visit the author's website ~~www.railab.me~~ (under construction) for wor
 ### UniSP-software roadmap
 
 - documentation
+- complete user interface implementation
 - support for phase-shifted operation
 - describe output module interface plugins conception
 - example output module interface plugin
