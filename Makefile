@@ -3,8 +3,12 @@
 #
 # author: Freddie Chopin, http://www.freddiechopin.info/
 #
+# modified by raiden00, http://www.railab.me/
 #
-# this makefile is based strongly on many examples found in the network
+# project: UniSP - Universal high power SMPS  platform, https://github.com/UniSP
+# chip: STM32F334X8
+# compiler: arm-none-eabi-gcc
+#
 #=============================================================================#
 
 #=============================================================================#
