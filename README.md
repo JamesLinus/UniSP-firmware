@@ -1,4 +1,4 @@
-# UniSP-software
+# UniSP-firmware
 (..sketch..)
 ## About UniSP
 
@@ -13,7 +13,7 @@ Main features:
 
 Source code and doc for hardware part of project can be find on <https://github.com/UniSP/UniSP-hardware>
 
-## About UniSP-software
+## About UniSP-firmware
 
 UniSP source code is placed in unisp/ directory.
 
@@ -26,8 +26,9 @@ mod/ directory is used to handle output interface 'plugins'.
 
 Please visit the author's website ~~www.railab.me~~ (under construction) for worklogs, articles and other interesting content ;]
 
-### UniSP-software roadmap
+### UniSP-firmware roadmap
 
+- integration with libopencm3
 - documentation
 - complete user interface implementation
 - support for phase-shifted operation
